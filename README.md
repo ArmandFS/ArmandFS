@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArmandFS
-- 👀 I’m interested in Python Machine Learning, Data Science, Web Developing using Javascript.
-- 🌱 I’m currently learning Python Basics and Fundamentals, and want to learn Algorithms and Data Structures
+- 👀 I’m interested in Python Machine Learning, Data Science, Web Developing using Javascript. Currently a biomedical Engineering 
+- 🌱 I’m currently learning Python Basics and Fundamentals, and want to learn Algorithms and Data Structures, and other engineering principles
 
 - 📫 How to reach me:
 - You can contact me on instagram: https://www.instagram.com/armandsurbakti/
