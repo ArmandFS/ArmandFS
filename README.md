@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArmandFS
-- 👀 I’m interested in Python Machine Learning, Data Science, Web Developing using Javascript. Currently a biomedical Engineering 
+- 👀 I’m interested in Python Machine Learning, Data Science, Python Web Development, Databases, and Other Fundamental Programming Stuff!
 - 🌱 I’m currently learning Python Basics and Fundamentals, and want to learn Algorithms and Data Structures, and other engineering principles
 
 - 📫 How to reach me:
