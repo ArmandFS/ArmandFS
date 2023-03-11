@@ -4,7 +4,7 @@
 
 - 📫 How to reach me:
 - You can contact me on instagram: https://www.instagram.com/armandsurbakti/
-- You can contact me on LinkedIn: https://www.linkedin.com/in/armand-faris-a-surbakti-17444521b/
+- You can contact me on LinkedIn: https://www.linkedin.com/in/armandfs/
 
 <!---
 ArmandFS/ArmandFS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
