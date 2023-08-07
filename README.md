@@ -1,7 +1,10 @@
+#Hi There, I'm Armand!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandFS&show_icons=true&theme=radical)
+
 - 👋 I’m interested in Android Development, Fullstack Development, Frontend Development, SQL Databases, Python Statistics & Machine Learning, and Advanced Math.
 - 👀 I'm currently preparing for my Thesis which includes Android Development, Laravel, PHP, Machine Learning, and Others.
 - 🌱 My hobbies other than programming include playing the piano, guitar, football, basketball, and going to the gym!
-
 - 📫 How to reach my other social medias: "https://linktr.ee/armandd%5F"
 
 <!---
