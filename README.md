@@ -2,9 +2,7 @@
 - 👀 I'm currently preparing for my Thesis which includes Android Development, Laravel, PHP, Machine Learning, and Others.
 - 🌱 My hobbies other than programming include playing the piano, guitar, football, basketball, and going to the gym!
 
-- 📫 How to reach me:
-- You can contact me on instagram: https://www.instagram.com/armandsurbakti/
-- You can contact me on LinkedIn: https://www.linkedin.com/in/armandfs/
+- 📫 How to reach my other social medias: https://linktr.ee/armandd_
 
 <!---
 ArmandFS/ArmandFS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
