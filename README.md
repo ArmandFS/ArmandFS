@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Armand Faris A Surbakti, a Biomedical Engineer Undergraduate in Sepuluh Nopember Institute of Technology.
-- 👀 I’m interested in Python Machine Learning, Data Science, Python Web Development, Databases, and Other Fundamental Programming Stuff!
-- 🌱 I’m currently learning the basics of Python Fundamentals, Its libraries, and advanced machine learning in the future.
+- 👋 I’m interested in Android Development, Fullstack Development, Frontend Development, SQL Databases, Python Statistics & Machine Learning, and Advanced Math.
+- 👀 I'm currently preparing for my Thesis which includes Android Development, Laravel, PHP, Machine Learning, and Others.
+- 🌱 My hobbies other than programming include playing the piano, guitar, football, basketball, and going to the gym!
 
 - 📫 How to reach me:
 - You can contact me on instagram: https://www.instagram.com/armandsurbakti/
