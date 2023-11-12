@@ -1,7 +1,7 @@
 # Hello There, the name's Armand!
 
 ![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandFS&show_icons=true&theme=radical&card_width=300)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&layout=donut&theme=radical&langs_count=6&card_width=305)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&layout=donut&theme=radical&langs_count=6&card_width=305)
 
 
 - 👋 I’m interested in Deep Learning, Android Development, Fullstack Development, Frontend Development, SQL Databases, Python Statistics, and Advanced Math.
