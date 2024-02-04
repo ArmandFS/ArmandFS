@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&layout=donut&theme=radical&langs_count=6&card_width=305)
 
 
-👋 I’m interested in Deep Learning, Android Development, Fullstack Development, Frontend Development, SQL Databases, Python Statistics, and Advanced Math.
+👋 I’m interested in Deep Learning, Android Development, Fullstack Development, Frontend Development, SQL Databases, Python Statistics, Math for Machine Learning, and Deep Learning
 👀 I'm currently preparing for my Biomedical Engineering Thesis which includes Android Development, Laravel, PHP, Machine Learning, Deep Learning, and Others.
 🌱 My hobbies other than programming include playing the piano, guitar, football, basketball, badminton, and working out at the gym!
 📫 How to reach my other social medias: "https://linktr.ee/armandd%5F"
