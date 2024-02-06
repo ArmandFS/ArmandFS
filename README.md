@@ -1,4 +1,4 @@
-# Hello There, my name is Armand. And welcome to my GitHub Page!
+# Hello There, my name is Armand, And welcome to my GitHub Page!
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&layout=donut&theme=radical&langs_count=6&card_width=305)
 
