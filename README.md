@@ -4,8 +4,11 @@
 
 
 👋 I’m interested in Deep Learning, Android Development, Fullstack Development, Frontend Development, SQL Databases, Python Statistics, Math for Machine Learning, and Deep Learning
+
 👀 I'm currently preparing for my Biomedical Engineering Thesis which includes Android Development, Laravel, PHP, Machine Learning, Deep Learning, and Others.
+
 🌱 My hobbies other than programming include playing the piano, guitar, football, basketball, badminton, and working out at the gym!
+
 📫 How to reach my other social medias: "https://linktr.ee/armandd%5F"
 
 What I'm heavily focusing on right now (It's machine learning and data science with python mostly, and some biomedical engineering projects):
