@@ -7,7 +7,7 @@
 
 👀 I'm currently preparing for my Biomedical Engineering Thesis which includes Android Development, Laravel, PHP, Machine Learning, Deep Learning, and Others.
 
-🌱 My hobbies other than programming include playing the piano, guitar, football, basketball, badminton, and working out at the gym!
+🌱 My hobbies other than programming include playing the piano, guitar, football, gaming, badminton, and working out at the gym!
 
 📫 How to reach my other social medias: "https://linktr.ee/armandd%5F"
 
