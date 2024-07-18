@@ -3,7 +3,7 @@
 ### :fire: My Github Stats :fire:
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArmandFS&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 👨‍💻 I’m interested in Deep Learning, Android Development, Frontend Development, SQL Databases, Python Statistics, Math for Machine Learning, and Deep Learning!
 
