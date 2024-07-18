@@ -1,6 +1,6 @@
 # Hello There, my name is Armand, And welcome to my GitHub Page!
   
-[![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandFS)](https://github.com/anuraghazra/github-readme-stats)
+![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandFS&show_icons=true)
 
 
 👋 I’m interested in Deep Learning, Android Development, Frontend Development, SQL Databases, Python Statistics, Math for Machine Learning, and Deep Learning!
