@@ -1,6 +1,6 @@
 # Hello There, my name is Armand, And welcome to my GitHub Page!
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&layout=donut&theme=radical&langs_count=6&card_width=305)
+[![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandFS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 👋 I’m interested in Deep Learning, Android Development, Frontend Development, SQL Databases, Python Statistics, Math for Machine Learning, and Deep Learning!
