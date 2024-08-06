@@ -7,7 +7,7 @@
 
 👨‍💻 I’m interested in Deep Learning, Android Development, Frontend Development, SQL Databases, Python Statistics, and Mathematics.
 
-🎓 I'm currently finishing my Biomedical Engineering Thesis which includes Android Application Development, Laravel, PHP, Machine Learning, Deep Learning, and Others.
+🎓 I'm currently finishing my Biomedical Engineering Thesis which includes Android Application Development, Laravel, Kotlin, Jetpack Compose and Others.
 
 🎹 My hobbies other than programming include playing the piano, guitar, football, gaming, badminton, and working out at the gym!
 
