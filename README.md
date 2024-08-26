@@ -9,7 +9,7 @@
 
 🎓 I'm currently finishing my Biomedical Engineering Thesis which includes Android Application Development, Laravel, Kotlin, Jetpack Compose and Others.
 
-🎹 My hobbies other than programming include playing the piano,  football, gaming, badminton, and working out at the gym!
+🎹 My hobbies other than programming include playing the piano,  football, gaming, badminton, and working out at the gym.
 
 📫 How to reach my other social medias: "https://linktr.ee/armandd%5F"
 
