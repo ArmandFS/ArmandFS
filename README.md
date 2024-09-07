@@ -5,7 +5,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArmandFS&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-👨‍💻 I’m interested in Deep Learning, Android Development, Frontend Development, SQL Databases, Python Statistics, and Mathematics.
+👨‍💻 I’m interested in Deep Learning, Android Development, Web Development,  Python Statistics, and Mathematics.
 
 🎓 I'm currently finishing my Biomedical Engineering Thesis which includes Android Application Development, Laravel, Kotlin, Jetpack Compose and Others.
 
