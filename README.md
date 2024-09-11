@@ -1,4 +1,4 @@
-# Hello There, my name is Armand, And welcome to my GitHub Profile!
+# Hello There! my name is Armand, And welcome to my GitHub Profile!
 
 ### :fire: My Github Stats :fire:
   
