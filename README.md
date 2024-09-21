@@ -3,7 +3,7 @@
 ### :fire: My Github Stats! :fire:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
 
 [![Armands's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandFS&show_icons=true&theme=radical)](https://github.com/ArmandFS/github-readme-stats)
 
