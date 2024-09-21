@@ -1,6 +1,10 @@
 # Hello There! my name is Armand, And welcome to my GitHub Profile!
 
 ### :fire: My Github Stats! :fire:
+
+
+[![Armands's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandFS)](https://github.com/ArmandFS/github-readme-stats)
+
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArmandFS&theme=dark&background=000000)](https://git.io/streak-stats)
 
