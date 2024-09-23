@@ -2,11 +2,11 @@
 
 <div align="center">
   
-## My Languages  
+## My Languages!  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
 
   
-## My Stats
+## My Stats!
   
   [![Armands's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandFS&show_icons=true&theme=radical)](https://github.com/ArmandFS/github-readme-stats)
 
@@ -15,7 +15,7 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArmandFS&theme=dark&background=000000)](https://git.io/streak-stats)
 
-## Programming Languages and Frameworks
+## Programming Languages and Frameworks that I have experience with. 
 
 ### Data Science and Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,7 +28,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Backend Development
+### Backend Development and Databases
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
