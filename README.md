@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## My Languages!  
+## My Most Used Languages!  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
 
   
