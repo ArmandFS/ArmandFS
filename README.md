@@ -1,4 +1,4 @@
-# Hello!  You can call me Armand, and Welcome to my GitHub Profile!
+# Hello!  You can call me Armand and Welcome to my GitHub Profile!
 
 <div align="center">
   
