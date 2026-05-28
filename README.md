@@ -2,15 +2,6 @@
 
 <div align="center">
   
-## My Most Used Languages!
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandFS&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical)
-
-  
-## My Github Stats!
-  
-  [![Armands's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandFS&show_icons=true&theme=radical)](https://github.com/ArmandFS/github-readme-stats)
-
-  
 ## My Github Streak!
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArmandFS&theme=dark&background=000000)](https://git.io/streak-stats)
