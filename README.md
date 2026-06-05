@@ -1,10 +1,6 @@
 # Hello and Welcome to my GitHub Profile!
 
 <div align="center">
-  
-## My Github Streak!
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArmandFS&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Programming Languages and Frameworks that I have experience with! 
 
