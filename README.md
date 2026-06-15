@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello! Welcome to my GitHub Profile!
+# Kia ora! Welcome to my GitHub Profile!
 
 #### Programming Languages and Frameworks that I have (some level of) experience with! 
 
